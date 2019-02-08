@@ -1,0 +1,18 @@
+
+iguanatweaks:hardness.need_tool=J'ai peut-être besoin d'un outil pour exploiter ce bloc
+iguanatweaks:hardness.wrong_tool=Oups, j'ai peut-être utilisé le mauvais outil
+
+info.encumbered.slightly=Légèrement encombré
+info.encumbered.encumbered=Encombré
+info.encumbered.almost_fully=Chargé
+info.encumbered.greatly=Très Chargé
+info.encumbered.fully=Surchargé
+info.weight=Poids
+info.creative_mode=Mode Créatif
+
+sleep.random_respawn=Vous reprenez conscience, confus quant à l'endroit où vous vous trouvez
+sleep.bed_destroyed=Vous vous réveillez et trouvez votre lit en morceaux
+sleep.bed_decoration=Personne ne vous l'a dit ? Les lits sont juste décoratifs
+sleep.enjoy_the_night=Le point d'apparition a été défini. Profitez de la nuit ;)
+
+death.attack.altered_poison=%1$s ne savait pas que le poison était mortel
